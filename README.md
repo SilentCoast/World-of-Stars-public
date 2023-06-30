@@ -17,7 +17,11 @@ Level Constructor:
 UI:
 
 ![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/2b5c6ed8-6cc3-4b1f-a5ba-c07212b49edb)
+
 ![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/ad19f2e4-7e74-42b2-b78a-011d02a860b2)
+
 ![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/15283c65-2a62-4a90-9e75-9b37998b13e5)
+
 ![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/9b0ad425-61f9-4282-b2f7-de61f817993d)
+
 ![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/b03b58e6-9f78-485b-b0c8-3a53ef648dc0)
