@@ -5,10 +5,7 @@ Game samples
 
 ![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/408050a8-3515-4d92-ac99-582b061a15a2)
 
-
-![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/e4375e05-7b27-4519-be5e-398853669fbb)
-
-![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/c6485dea-74f3-42d4-b61b-15587bd3902a)
+![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/3bc207b7-e1d6-4382-862c-9ff7135efe05)
 
 
 Level Constructor:
