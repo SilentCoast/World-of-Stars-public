@@ -3,7 +3,8 @@ Multiplayer online node-based strategy game
 
 Game samples
 
-![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/c330b649-5776-4ef5-aea7-f57106fc579a)
+![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/408050a8-3515-4d92-ac99-582b061a15a2)
+
 
 ![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/e4375e05-7b27-4519-be5e-398853669fbb)
 
