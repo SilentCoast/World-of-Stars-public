@@ -11,16 +11,14 @@ Game samples
 Level Constructor:
 
 
-![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/dcff8267-3f2f-49d4-9591-5bf443a656ae)
+![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/155b83ff-8468-4794-ba36-0210c7e3a622)
+
 
 UI:
 
-![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/2b5c6ed8-6cc3-4b1f-a5ba-c07212b49edb)
+![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/b6185034-fc80-486d-8e5f-1fdd1333f337)
+![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/5215442f-cf1c-4345-82ad-ca911f8b5893)
 
-![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/ad19f2e4-7e74-42b2-b78a-011d02a860b2)
-
-![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/15283c65-2a62-4a90-9e75-9b37998b13e5)
-
-![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/9b0ad425-61f9-4282-b2f7-de61f817993d)
-
-![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/b03b58e6-9f78-485b-b0c8-3a53ef648dc0)
+![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/8bc1d68c-84c8-49ff-a53a-6e18a5d513f0)
+![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/6cc9cd5c-2e65-477e-a5cf-c27760f22e39)
+![image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/7b431e33-38cf-46bf-898e-846a4d5bb534)
