@@ -21,4 +21,4 @@ Welcome to the Exciting World of World of Stars! Experience the thrill of gaming
 
 ## License
 
-&copy; 2023 Your Game. All rights reserved.
+&copy; 2023 World of Stars. All rights reserved.
