@@ -1,6 +1,6 @@
 # World of Stars
 
-Welcome to the Exciting World of World of Stars! Experience the thrill of gaming with our innovative features.
+Welcome to the Exciting World of World of Stars! [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=May+the+force+be+with+you)](https://git.io/typing-svg)
 
 ## Conquer galaxies
 
