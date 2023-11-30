@@ -1,17 +1,17 @@
-# Your Game Title
+# World of Stars
 
-Welcome to the Exciting World of Your Game! Experience the thrill of gaming with our innovative features.
+Welcome to the Exciting World of World of Stars! Experience the thrill of gaming with our innovative features.
 
-## Screenshots
+## Conquer galaxies
 
 | ![Game Screenshot 1](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/408050a8-3515-4d92-ac99-582b061a15a2) | ![Game Screenshot 2](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/3bc207b7-e1d6-4382-862c-9ff7135efe05) |
 | --- | --- |
 
-## Level Constructor
+## Build your own star systems
 
 ![Level Constructor Image](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/155b83ff-8468-4794-ba36-0210c7e3a622)
 
-## Explore the Game Interface
+## All with user-friendly interface
 
 | ![UI Screenshot 1](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/b6185034-fc80-486d-8e5f-1fdd1333f337) | ![UI Screenshot 2](https://github.com/SilentCoast/World-of-Stars-public/assets/94042423/5215442f-cf1c-4345-82ad-ca911f8b5893) |
 | --- | --- |
