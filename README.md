@@ -1,6 +1,6 @@
 # World of Stars
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=%2336BCF7&lines=Welcome+to+World+of+Stars+!;May+the+force+be+with+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=%2336BCF7&lines=Welcome+to+World+of+Stars+!;May+the+force+be+with+you)](https://git.io/typing-svg)
 
 ## Conquer galaxies
 
