@@ -20,10 +20,13 @@
 | --- | --- | --- |
 
 ## Rules and Gameplay of "World of Stars"
+
 **Objective**
+
 The primary objective in "World of Stars" is to conquer all the star systems in a given level. You do this by strategically managing your fleet and capturing enemy star systems.
 
 **Basic Rules**
+
 *Star Systems:* The game board consists of various star systems, each producing ships over time. Star systems can be neutral, controlled by the player, or controlled by enemies.
 
 *Fleet Movement:* Players can send fleets of ships from one star system to another to either reinforce friendly systems or to attack enemy systems.
@@ -37,6 +40,7 @@ The primary objective in "World of Stars" is to conquer all the star systems in 
 *Map Layout:* Each level has a different map layout, with varying distances between star systems, which affects strategy.
 
 **Strategies for Victory**
+
 *Early Expansion:* At the start of a level, quickly capture nearby neutral systems to increase your ship production capacity. Avoid overextending and leaving your systems undefended.
 
 *Balanced Fleet Distribution:* Always ensure that your star systems have enough ships for defense. Sending 100% of ships might capture a system, but it leaves the original system vulnerable.
